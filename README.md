@@ -33,7 +33,6 @@ The project focuses on analyzing **world population data** using Power BI, prese
 
 To explore, visualize, and present key global population insights using Power BI, demonstrating data storytelling, dashboard design, and analytical skills in a professional context.
 
----
 
 ## 📌 About the Project
 
